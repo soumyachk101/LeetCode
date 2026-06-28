@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyachk101/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/soumyachk101/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyachk101/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/soumyachk101/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/soumyachk101/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Hash Table
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+## Math
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/soumyachk101/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
