@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/soumyachk101/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyachk101/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/soumyachk101/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/soumyachk101/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -49,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/soumyachk101/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Binary Search
+|  |
+| ------- |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+## Queue
+|  |
+| ------- |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/soumyachk101/LeetCode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 <!---LeetCode Topics End-->
